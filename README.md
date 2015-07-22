@@ -2,6 +2,8 @@
 
 This is a repo for a starter appliation for a Single Page MEAN Stack application. Just download and install and you have a good foundation for building application. 
 
+http://wwsun.me/posts/mean-starter.html
+
 ## Installation
 1. Download the repository
 2. Install npm modules: `npm install`
